@@ -96,7 +96,7 @@ L'article ne règle pas l'hypothèse dans laquelle la victime par ricochet a ell
 >
 > Modifie : Code des assurances - art. L211-1 (M)
 
-L'article 7 ouvre la section II du chapitre Ier, consacrée à l'assurance et au fonds de garantie. Il s'agit d'un article purement modificatif : selon la source, il a modifié l'article L. 211-1 du code des assurances, qui pose l'obligation d'assurance de responsabilité civile des véhicules terrestres à moteur ; la mention « (M) » signale que cet article a été modifié depuis. La base LEGI n'attribue pas de période de vigueur à l'article 7, dont l'effet s'est épuisé dans la modification du code. Le lien avec le dispositif de la loi est direct : l'offre d'indemnité de la section III repose sur l'assureur qui garantit la responsabilité civile du fait d'un véhicule terrestre à moteur (article 12).
+L'article 7 ouvre la section II du chapitre Ier, consacrée à l'assurance et au fonds de garantie. Il s'agit d'un article purement modificatif : selon la source, il a modifié l'article L. 211-1 du code des assurances ; la mention « (M) » signale que cet article a été modifié depuis. La base LEGI n'attribue pas de période de vigueur à l'article 7, dont l'effet s'est épuisé dans la modification du code. Son rattachement à la section relative à l'assurance s'explique par l'économie de la loi : l'offre d'indemnité de la section III incombe à l'assureur qui garantit la responsabilité civile du fait d'un véhicule terrestre à moteur (article 12).
 
 ### Article 8
 
@@ -114,7 +114,7 @@ L'article 8, second article de la section II du chapitre Ier (assurance et fonds
 >
 > Modifie : Code des assurances - art. L420-1 (T)
 
-L'article 9 a modifié, selon la source, l'article L. 420-1 du code des assurances, relatif au fonds de garantie. La mention « (T) » indique, selon les conventions de la base LEGI, que cette disposition a depuis été transférée à une autre place. Article purement modificatif de la section II du chapitre Ier, il n'a pas de période de vigueur propre ; le droit applicable au fonds de garantie doit être recherché dans le code des assurances tel qu'il est aujourd'hui numéroté. L'article 25 de la loi rend d'ailleurs applicables au fonds de garantie, dans ses rapports avec les victimes, plusieurs règles de l'offre d'indemnité.
+L'article 9 a modifié, selon la source, l'article L. 420-1 du code des assurances. La mention « (T) » indique, selon les conventions de la base LEGI, que cette disposition a depuis été transférée à une autre place. Article purement modificatif de la section II du chapitre Ier, il n'a pas de période de vigueur propre ; le droit applicable doit être recherché dans le code des assurances tel qu'il est aujourd'hui numéroté ; l'article 17 de la loi vise ainsi le fonds de garantie « prévu par l'article L. 421-1 du code des assurances ». L'article 25 de la loi rend d'ailleurs applicables au fonds de garantie, dans ses rapports avec les victimes, plusieurs règles de l'offre d'indemnité.
 
 ### Article 10
 
@@ -124,7 +124,7 @@ L'article 9 a modifié, selon la source, l'article L. 420-1 du code des assuranc
 >
 > Modifie : Code des assurances - art. L420-3 (T)
 
-L'article 10 a modifié, selon la source, l'article L. 420-3 du code des assurances, signalé comme transféré depuis (« (T) »). Comme l'article 9, il coordonne le régime du fonds de garantie figurant dans le code des assurances avec la réforme de l'indemnisation des victimes d'accidents de la circulation. Il n'a pas de contenu normatif propre dans la version consolidée de la loi.
+L'article 10 a modifié, selon la source, l'article L. 420-3 du code des assurances, signalé comme transféré depuis (« (T) »). Comme l'article 9, il relève de la section consacrée à l'assurance et au fonds de garantie et porte sur le code des assurances. Il n'a pas de contenu normatif propre dans la version consolidée de la loi.
 
 ### Article 11
 
