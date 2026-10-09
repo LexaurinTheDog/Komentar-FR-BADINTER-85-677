@@ -86,6 +86,56 @@ La règle établit une dépendance entre le droit de la victime indirecte et cel
 
 L'article ne règle pas l'hypothèse dans laquelle la victime par ricochet a elle-même commis une faute ; il ne vise que l'opposabilité des limitations tenant à la victime directe. Il ne détermine pas non plus les préjudices réparables ni les personnes pouvant agir, qui relèvent des règles générales de la réparation. Sur le plan procédural, l'article 12 prévoit qu'en cas de décès l'offre d'indemnité est faite aux héritiers et, s'il y a lieu, au conjoint, ce qui fait le lien avec la procédure d'offre de la section III.
 
+#### Section II — Dispositions relatives à l'assurance et au fonds de garantie
+
+### Article 7
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code des assurances - art. L211-1 (M)
+
+L'article 7 ouvre la section II du chapitre Ier, consacrée à l'assurance et au fonds de garantie. Il s'agit d'un article purement modificatif : selon la source, il a modifié l'article L. 211-1 du code des assurances, qui pose l'obligation d'assurance de responsabilité civile des véhicules terrestres à moteur ; la mention « (M) » signale que cet article a été modifié depuis. La base LEGI n'attribue pas de période de vigueur à l'article 7, dont l'effet s'est épuisé dans la modification du code. Le lien avec le dispositif de la loi est direct : l'offre d'indemnité de la section III repose sur l'assureur qui garantit la responsabilité civile du fait d'un véhicule terrestre à moteur (article 12).
+
+### Article 8
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+
+L'article 8, second article de la section II du chapitre Ier (assurance et fonds de garantie), figure dans la source avec la seule mention « a modifié les dispositions suivantes », sans indication des dispositions modifiées. Il s'agit d'un article modificatif dépourvu de période de vigueur dans la base LEGI ; faute de précision dans la source, le commentaire ne peut identifier le texte modifié et se borne à constater l'absence de contenu normatif autonome.
+
+### Article 9
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code des assurances - art. L420-1 (T)
+
+L'article 9 a modifié, selon la source, l'article L. 420-1 du code des assurances, relatif au fonds de garantie. La mention « (T) » indique, selon les conventions de la base LEGI, que cette disposition a depuis été transférée à une autre place. Article purement modificatif de la section II du chapitre Ier, il n'a pas de période de vigueur propre ; le droit applicable au fonds de garantie doit être recherché dans le code des assurances tel qu'il est aujourd'hui numéroté. L'article 25 de la loi rend d'ailleurs applicables au fonds de garantie, dans ses rapports avec les victimes, plusieurs règles de l'offre d'indemnité.
+
+### Article 10
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code des assurances - art. L420-3 (T)
+
+L'article 10 a modifié, selon la source, l'article L. 420-3 du code des assurances, signalé comme transféré depuis (« (T) »). Comme l'article 9, il coordonne le régime du fonds de garantie figurant dans le code des assurances avec la réforme de l'indemnisation des victimes d'accidents de la circulation. Il n'a pas de contenu normatif propre dans la version consolidée de la loi.
+
+### Article 11
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code des assurances - art. L420-8-1 (T)
+
+L'article 11 clôt la section II du chapitre Ier. Selon la source, il a créé l'article L. 420-8-1 du code des assurances, depuis transféré (« (T) »). La disposition créée appartient au code des assurances et doit y être recherchée sous sa numérotation actuelle ; l'article 11 n'en conserve dans la loi que la trace. Avec les articles 7 à 10, il explique que la section II, dont l'intitulé subsiste, ne contienne aucune règle autonome : son objet était la modification du code des assurances.
+
 #### Section III — De l'offre d'indemnité
 
 ### Article 12

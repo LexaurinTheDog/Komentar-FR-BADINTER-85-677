@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 85-677 du 5 juillet 1985 (loi « Badinter » sur les accidents de la circulation)
 
-Commentaire d'un texte de droit français : **loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation** (JORF du 6 juillet 1985). Il couvre **34 articles** répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation** (JORF du 6 juillet 1985). Il couvre **49 articles** (34 articles en vigueur et 15 articles purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **2 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 1er janvier 2026).
 

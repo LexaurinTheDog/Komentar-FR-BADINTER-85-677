@@ -108,7 +108,101 @@ La représentation est limitée dans son objet : elle vaut « auprès du respons
 
 #### Chapitre III — Dispositions diverses
 
+#### Section 1 — De l'intervention du fonds de garantie
+
+### Article 35
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+
+L'article 35 constitue la section 1 du chapitre III (« Dispositions diverses »), intitulée « De l'intervention du fonds de garantie ». La source le reproduit avec la seule mention « a modifié les dispositions suivantes », sans désigner le texte modifié. Article modificatif sans période de vigueur dans la base LEGI, il n'a pas de contenu normatif autonome ; le commentaire ne peut préciser la disposition qu'il a modifiée.
+
+#### Section 2 — Des intérêts moratoires
+
+### Article 36
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code civil - art. 1153-1 (Ab)
+
+L'article 36 forme la section 2 du chapitre III, consacrée aux intérêts moratoires. Selon la source, il a créé l'article 1153-1 du code civil, aujourd'hui signalé comme abrogé (« (Ab) »). L'article de la loi n'a donc plus de portée actuelle : son effet s'est épuisé dans la création de la disposition du code civil, elle-même abrogée depuis. Les intérêts propres à la procédure d'offre sont réglés par les articles 16 et 17 (intérêts majorés) et l'article 21 (taux de l'intérêt légal majoré en cas de condamnation).
+
+#### Section 3 — Des prescriptions
+
+### Article 37
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code civil - art. 2244 (V)
+
+L'article 37 ouvre la section 3 du chapitre III, consacrée aux prescriptions. Selon la source, il a modifié l'article 2244 du code civil, signalé comme en vigueur (« (V) »). Il s'agit d'un article purement modificatif, sans période de vigueur propre dans la base LEGI ; le droit applicable résulte de la rédaction actuelle du code civil. L'intitulé de la section montre que la loi a entendu agir aussi sur le régime de la prescription des actions en réparation.
+
+### Article 38
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Code civil - art. 2270-1 (M)
+
+L'article 38, second article de la section 3 du chapitre III (« Des prescriptions »), a créé selon la source l'article 2270-1 du code civil, signalé comme modifié depuis (« (M) »). Cette information éclaire l'article 46 de la loi, disposition transitoire qui vise la prescription « prévue à l'article 38 » : le renvoi désigne la prescription introduite dans le code civil par le présent article. L'article 38 n'a lui-même plus de contenu normatif autonome dans la version consolidée.
+
+#### Section 4 — Des appels en déclaration de jugement commun
+
+### Article 39
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+
+L'article 39 ouvre la section 4 du chapitre III, intitulée « Des appels en déclaration de jugement commun ». La source le reproduit avec la seule mention « a modifié les dispositions suivantes », sans indication de la disposition modifiée. Article modificatif dépourvu de période de vigueur dans la base LEGI, il n'a pas de contenu normatif propre ; le commentaire ne peut identifier le texte visé.
+
+### Article 40
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code rural ancien - art. 1046 (Ab)
+
+L'article 40 a modifié, selon la source, l'article 1046 du code rural ancien, signalé comme abrogé (« (Ab) »). Il appartient à la section 4 du chapitre III, relative aux appels en déclaration de jugement commun. L'abrogation de la disposition modifiée prive l'article de toute portée actuelle ; il n'est reproduit que pour la complétude de la numérotation.
+
+### Article 41
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Code rural ancien - art. 1234-12 (Ab)
+
+L'article 41, également placé dans la section 4 du chapitre III (appels en déclaration de jugement commun), a modifié selon la source l'article 1234-12 du code rural ancien, signalé comme abrogé (« (Ab) »). Comme l'article 40, il n'a plus de portée actuelle et ne conserve dans la loi que la trace de l'opération de modification.
+
+### Article 42
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Ordonnance n°59-76 du 7 janvier 1959 - art. 3 (VT)
+
+L'article 42 clôt la section 4 du chapitre III. Selon la source, il a modifié l'article 3 de l'ordonnance n° 59-76 du 7 janvier 1959 ; la mention « (VT) » désigne, selon les conventions de la base LEGI, une disposition en vigueur assortie d'un terme. L'article de la loi n'a pas de période de vigueur propre et ne régit par lui-même aucune situation ; le droit applicable résulte de l'ordonnance modifiée.
+
 #### Section 5 — Des rentes indemnitaires
+
+### Article 43
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°74-1118 du 27 décembre 1974 - art. 1 (V)
+
+L'article 43 ouvre la section 5 du chapitre III, consacrée aux rentes indemnitaires. Selon la source, il a modifié l'article 1er de la loi n° 74-1118 du 27 décembre 1974, signalé comme en vigueur (« (V) »). Article purement modificatif, il n'a pas de contenu normatif propre dans la version consolidée ; la section 5 conserve en revanche l'article 44, disposition autonome relative à la conversion en capital des rentes allouées en réparation d'un préjudice.
 
 ### Article 44
 
@@ -122,6 +216,18 @@ L'article 44 permet la conversion d'une rente indemnitaire en capital. Il s'appl
 
 Le crédirentier peut demander au juge que les arrérages à échoir soient remplacés en tout ou partie par un capital. Trois conditions résultent du texte : l'initiative appartient au crédirentier ; la demande est portée devant le juge ; elle suppose que la « situation personnelle » du crédirentier le justifie, ce qui laisse au juge un pouvoir d'appréciation au regard des besoins concrets de la victime (aménagement d'un logement, projet professionnel, par exemple). La conversion ne porte que sur les arrérages à échoir, les arrérages échus restant dus. Le calcul du capital suit une table de conversion fixée par décret, ce qui garantit une méthode uniforme et prévisible. La disposition se rattache à l'article 18, qui encadre le paiement des rentes aux personnes protégées.
 
+#### Section 6 — De l'organisation judiciaire
+
+### Article 45
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : CODE DE L'ORGANISATION JUDICIAIRE. - art. L311-10-1 (M)
+
+L'article 45 constitue la section 6 du chapitre III, intitulée « De l'organisation judiciaire ». Selon la source, il a créé l'article L. 311-10-1 du code de l'organisation judiciaire, signalé comme modifié depuis (« (M) »). La disposition créée appartient au code de l'organisation judiciaire et doit y être recherchée dans sa rédaction en vigueur ; l'article 45 n'a plus de contenu normatif autonome dans la loi.
+
 #### Chapitre IV — Dispositions diverses
 
 ### Article 46
@@ -132,7 +238,7 @@ Le crédirentier peut demander au juge que les arrérages à échoir soient remp
 
 L'article 46 est une disposition transitoire relative à la prescription. Il prévoit que la prescription « prévue à l'article 38 » en cours lors de l'entrée en vigueur de la loi sera acquise à l'expiration d'un délai de dix ans à compter de cette entrée en vigueur, à moins que la prescription telle qu'elle était fixée antérieurement ne soit acquise pendant ce délai.
 
-L'article 38 auquel il est renvoyé ne figure plus dans la version consolidée de la source ; le commentaire ne peut donc en reproduire le contenu. On peut seulement constater qu'il relevait de la section 3 du chapitre III (« Des prescriptions »), dont l'intitulé subsiste sans article.
+L'article 38 auquel il est renvoyé relève de la section 3 du chapitre III (« Des prescriptions ») ; c'est un article purement modificatif qui, selon la source, a créé l'article 2270-1 du code civil. Le renvoi vise donc la prescription introduite dans le code civil par cet article, dont la loi ne reproduit pas le contenu.
 
 La règle transitoire elle-même obéit à une logique classique de droit intertemporel. Pour les prescriptions en cours, le nouveau délai ne court qu'à compter de l'entrée en vigueur de la loi, et il ne peut aboutir à prolonger une prescription qui aurait été acquise plus tôt selon l'ancienne règle : la plus courte des deux échéances l'emporte. Compte tenu du délai de dix ans courant à partir de l'entrée en vigueur de la loi, l'article a épuisé ses effets et ne présente plus qu'un intérêt historique.
 
