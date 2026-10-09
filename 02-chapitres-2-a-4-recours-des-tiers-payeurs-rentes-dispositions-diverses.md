@@ -128,7 +128,7 @@ L'article 35 constitue la section 1 du chapitre III (« Dispositions diverses »
 >
 > Crée : Code civil - art. 1153-1 (Ab)
 
-L'article 36 forme la section 2 du chapitre III, consacrée aux intérêts moratoires. Selon la source, il a créé l'article 1153-1 du code civil, aujourd'hui signalé comme abrogé (« (Ab) »). L'article de la loi n'a donc plus de portée actuelle : son effet s'est épuisé dans la création de la disposition du code civil, elle-même abrogée depuis. Les intérêts propres à la procédure d'offre sont réglés par les articles 16 et 17 (intérêts majorés) et l'article 21 (taux de l'intérêt légal majoré en cas de condamnation).
+L'article 36 forme la section 2 du chapitre III, consacrée aux intérêts moratoires. Selon la source, il a créé l'article 1153-1 du code civil, aujourd'hui signalé comme abrogé (« (Ab) »). L'article de la loi n'a donc plus de portée actuelle : son effet s'est épuisé dans la création de la disposition du code civil, elle-même abrogée depuis. Les intérêts propres à la procédure d'offre sont réglés par l'article 16 (intérêts au double du taux légal en cas d'offre tardive) et par l'article 21 (majoration du taux de l'intérêt légal en cas de condamnation non exécutée).
 
 #### Section 3 — Des prescriptions
 
